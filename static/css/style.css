@@ -1,0 +1,25 @@
+body {
+    background: #a6c0fe;
+}
+
+h1 {
+    border: 2px #000 solid;
+    border-radius: 25px;
+    color: #000;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    color: #000;
+    text-decoration: none;
+}
+
+h2:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+span {
+    border: 1px solid;
+}

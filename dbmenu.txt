@@ -1,0 +1,8 @@
+The Database Main Menu Options
+
+1. Print all films
+2. Add a film
+3. Update a film
+4. Delete a film
+5. Select film 
+6. Exit the DB App

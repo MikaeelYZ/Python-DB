@@ -1,0 +1,8 @@
+
+Report Options
+
+1. Filter by Year
+2. Filter by Rating
+3. Filter by Duration
+4. Filter by Genre
+5. Exit to Main Menu
